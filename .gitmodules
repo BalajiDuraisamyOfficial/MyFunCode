@@ -4,18 +4,9 @@
 [submodule "sendMailer"]
 	path = sendMailer
 	url = /Users/balaji-16440/Documents/Projects/MyPersonalPros/sendMailer
-[submodule "telbotTest1"]
-	path = telbotTest1
-	url = /Users/balaji-16440/Documents/Projects/MyPersonalPros/telbotTest1
-[submodule "testChat1"]
-	path = testChat1
-	url = /Users/balaji-16440/Documents/Projects/MyPersonalPros/testChat1
-[submodule "tapi"]
-	path = tapi
-	url = /Users/balaji-16440/Documents/Projects/MyPersonalPros/tapi
-[submodule "telbotTest2"]
-	path = telbotTest2
-	url = /Users/balaji-16440/Documents/Projects/MyPersonalPros/telbotTest2
-[submodule "testChat2"]
-	path = testChat2
-	url = /Users/balaji-16440/Documents/Projects/MyPersonalPros/testChat2
+[submodule "telegramChatBotAPI"]
+	path = telegramChatBotAPI
+	url = git@github.com:BalajiDuraisamyOfficial/telegramChatBotAPI.git
+[submodule "ChatGPTAPI"]
+	path = ChatGPTAPI
+	url = git@github.com:BalajiDuraisamyOfficial/ChatGPTAPI.git
