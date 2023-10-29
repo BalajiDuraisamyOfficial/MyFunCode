@@ -3,7 +3,7 @@
 	url = git@github.com:BalajiDuraisamyOfficial/LetsTweet.git
 [submodule "sendMailer"]
 	path = sendMailer
-	url = /Users/balaji-16440/Documents/Projects/MyPersonalPros/sendMailer
+	url = git@github.com:BalajiDuraisamyOfficial/sendMailer.git
 [submodule "telegramChatBotAPI"]
 	path = telegramChatBotAPI
 	url = git@github.com:BalajiDuraisamyOfficial/telegramChatBotAPI.git
