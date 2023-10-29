@@ -1,6 +1,6 @@
 [submodule "LetsTweet"]
 	path = LetsTweet
-	url = /Users/balaji-16440/Documents/Projects/MyPersonalPros/LetsTweet
+	url = git@github.com:BalajiDuraisamyOfficial/LetsTweet.git
 [submodule "sendMailer"]
 	path = sendMailer
 	url = /Users/balaji-16440/Documents/Projects/MyPersonalPros/sendMailer
